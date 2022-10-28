@@ -6,7 +6,7 @@ From the command line, firstly clone this repo.
 `git clone <this repo url>`   
 
 Then, view pdf tutorial or run jupyter notebook  
-jupyter notebook   
+`jupyter notebook`   
 
 Select Keyword Extraction.ipynb to run.   
 
